@@ -1,0 +1,32 @@
+{
+  "_comment": "Edit this file to change who can sign in. It is read when the page loads, so you can change it straight in GitHub and refresh the page - no rebuild needed.",
+  "password": "Calloway2026",
+  "judges": [
+    {
+      "id": "j1",
+      "name": "Judge 1",
+      "email": "judge1@jpmchase.com"
+    },
+    {
+      "id": "j2",
+      "name": "Judge 2",
+      "email": "judge2@jpmchase.com"
+    },
+    {
+      "id": "j3",
+      "name": "Judge 3",
+      "email": "judge3@jpmchase.com"
+    },
+    {
+      "id": "j4",
+      "name": "Judge 4",
+      "email": "judge4@jpmchase.com"
+    },
+    {
+      "id": "j5",
+      "name": "Judge 5",
+      "email": "judge5@jpmchase.com"
+    }
+  ],
+  "_sharedUrl_help": "Add a sharedUrl below to make the leaderboard combine all judges live across devices. See the README."
+}
