@@ -1,8 +1,8 @@
 {
   "_comment": "Edit this file to change who can sign in. It is read when the page loads, so you can change it straight in GitHub and refresh the page - no rebuild needed.",
-  "password": "Calloway2026",
+  "password": "atp2026",
   "judges": [
-    { "id": "j1", "name": "Judge 1", "email": "judge1@jpmchase.com" },
+    { "id": "j1", "name": "Danny Dias", "email": "ddiaspestana@microsoft.com" },
     { "id": "j2", "name": "Judge 2", "email": "judge2@jpmchase.com" },
     { "id": "j3", "name": "Judge 3", "email": "judge3@jpmchase.com" },
     { "id": "j4", "name": "Judge 4", "email": "judge4@jpmchase.com" },
