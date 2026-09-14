@@ -10,9 +10,9 @@
   "_step3": "Replace the five rows below with the real judges. Keep each id unique and do not change an id once scoring has started.",
   "judges": [
     { "id": "j1", "name": "Danny Dias", "email": "ddiaspestana@microsoft.com" },
-    { "id": "j2", "name": "John Doe", "email": "danny@dannydias.pro" },
-    { "id": "j3", "name": "ing", "email": "ing.diasdanny@gmail.com" },
-    { "id": "j4", "name": "Judge 4", "email": "judge4@jpmchase.com" },
-    { "id": "j5", "name": "Judge 5", "email": "judge5@jpmchase.com" }
+    { "id": "j2", "name": "Kaz Horinouchi", "email": "khorinouchi@microsoft.com" },
+    { "id": "j3", "name": "Adam Wood", "email": "adam.wood@microsoft.com" },
+    { "id": "j4", "name": "Robyn Benevides", "email": "robenevides@microsoft.com" },
+    { "id": "j5", "name": "Anne Stillings", "email": "Anne.Stillings@microsoft.com" }
   ]
 }
