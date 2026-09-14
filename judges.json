@@ -2,7 +2,7 @@
   "_comment": "Edit this file in GitHub and refresh the app - no rebuild needed.",
 
   "_step1": "PASTE YOUR JSONBLOB URL BELOW. It looks like https://jsonblob.com/api/jsonBlob/1234567890123456789",
-  "sharedUrl": "https://jsonblob.com/api/jsonBlob/01a09df3-49dd-7178-9dc9-7bebfa1cbd91/",
+  "sharedUrl": https://jsonblob.com/api/jsonBlob/01a09df3-49dd-7178-9dc9-7bebfa1cbd91/,
 
   "_step2": "Set the password you will give the judges.",
   "password": "atp2026",
