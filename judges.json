@@ -1,6 +1,13 @@
 {
-  "_comment": "Edit this file to change who can sign in. It is read when the page loads, so you can change it straight in GitHub and refresh the page - no rebuild needed.",
+  "_comment": "Edit this file in GitHub and refresh the app - no rebuild needed.",
+
+  "_step1": "PASTE YOUR JSONBLOB URL BELOW. It looks like https://jsonblob.com/api/jsonBlob/1234567890123456789",
+  "sharedUrl": "https://jsonblob.com/api/jsonBlob/01a09df3-49dd-7178-9dc9-7bebfa1cbd91/",
+
+  "_step2": "Set the password you will give the judges.",
   "password": "atp2026",
+
+  "_step3": "Replace the five rows below with the real judges. Keep each id unique and do not change an id once scoring has started.",
   "judges": [
     { "id": "j1", "name": "Danny Dias", "email": "ddiaspestana@microsoft.com" },
     { "id": "j2", "name": "Judge 2", "email": "judge2@jpmchase.com" },
