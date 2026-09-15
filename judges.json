@@ -1,6 +1,6 @@
 {
   "_comment": "Edit this file in GitHub and refresh the app - no rebuild needed. Photos are matched to judges by 'id' (j1, j2, j3).",
-  "sharedUrl": "PASTE_YOUR_FIREBASE_URL_HERE",
+  "sharedUrl": "https://awm-atp-judging-default-rtdb.firebaseio.com/scores.json",
   "password": "atp2026",
   "judges": [
     {
