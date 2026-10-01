@@ -8,21 +8,28 @@
       "name": "Christian Preussner",
       "role": "Global Head of Sustainable Investing & Stewardship, Asset Management",
       "sponsorTitle": "ATP Executive Sponsor",
-      "email": "judge1@jpmchase.com"
+      "email": "christian.preussner@jpmorgan.com"
     },
     {
       "id": "j2",
       "name": "Carrie Spengler",
       "role": "Co-Head of Specialized Strategies, WM Solutions",
       "sponsorTitle": "ATP Executive Sponsor",
-      "email": "judge2@jpmchase.com"
+      "email": "Carrie.Spengler@jpmorgan.com"
     },
     {
       "id": "j3",
       "name": "Kristian West",
       "role": "Global Head of Investment Platform, Asset Management",
       "sponsorTitle": "ATP Executive Sponsor",
-      "email": "judge3@jpmchase.com"
+      "email": "kristian.g.west@jpmorgan.com"
+    },
+    {
+      "id": "j4",
+      "name": "Josh Shapiro",
+      "role": "Sales General Manager FSI JPMC",
+      "sponsorTitle": "Microsoft Executive Sponsor",
+      "email": "joshuas@microsoft.com"
     },
     {
       "id": "org",
